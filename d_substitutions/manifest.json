@@ -2,13 +2,13 @@
   "manifest_version": 2,
   "name": "Dewi, do we do this?",
   "description": "Dewi make fun of my friend dewi? Yes we do!",
-  "version": "1.4.1",
-  "options_page": "html/config.html",
+  "version": "0.1",
+  // "options_page": "html/config.html",
   "browser_action": {
     "default_icon": {
       "19": "images/enabled.png"
     },
-    "default_title": "clickicy click click "
+    "default_title": "clickity clickity click "
   },
   "background": {
     "scripts": [

@@ -1,6 +1,6 @@
 //Default replacements
 var default_replacements = [
-  ['Do we', 'dewi'],
+  ['do we', 'dewi'],
   ['do it', 'dewit']
 ];
 
