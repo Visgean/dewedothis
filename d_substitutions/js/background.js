@@ -1,9 +1,10 @@
 //Default replacements
 var default_replacements = [
-  //https://xkcd.com/1288/
   ['Do we', 'dewi'],
-  ['do it', 'dewit'],
+  ['do it', 'dewit']
 ];
+
+
 //Default Blacklist
 var default_blacklisted_sites = [
   "docs.google.com",
@@ -88,7 +89,7 @@ function toggleActive() {
         "path": "images/disabled.png"
       };
       message = {
-        "title": "click to enable xkcd substitutions"
+        "title": "click to engage Dewi."
       };
       status = "disabled";
     } else if (status === "disabled") {
@@ -96,7 +97,7 @@ function toggleActive() {
         "path": "images/enabled.png"
       };
       message = {
-        "title": "click to disabled xkcd substitutions"
+        "title": "click to disable Dewi. "
       };
       status = "enabled";
     }
