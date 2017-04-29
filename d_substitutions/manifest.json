@@ -3,12 +3,11 @@
   "name": "Dewi, do we do this?",
   "description": "Dewi make fun of my friend dewi? Yes we do!",
   "version": "0.1",
-  // "options_page": "html/config.html",
   "browser_action": {
     "default_icon": {
       "19": "images/enabled.png"
     },
-    "default_title": "clickity clickity click "
+    "default_title": "clickity clickity click"
   },
   "background": {
     "scripts": [
