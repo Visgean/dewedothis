@@ -1,14 +1,4 @@
-xkcd-substitutions
-==================
+Dewi, do we do this?
+====================
 
-xkcd substitutions chrome extension
-
-All credit to XKCD.  
-https://xkcd.com/1288/
-https://xkcd.com/1625/
-
-some other xkcd jokes have made it into the newest version.
-https://xkcd.com/1004/
-https://xkcd.com/1418/
-https://xkcd.com/1031/
-https://xkcd.com/1625/
+Do we do this is a fun piece of shit project stealing shamelesly xkcd-substituitoins code. 
